@@ -1,4 +1,4 @@
-# 🚀 Ultimate Quick Stack — Next.js Full-Stack Boilerplate for Scalable Web Apps
+# 🚀Next.js Full-Stack Boilerplate for Scalable Web Apps
 
 A production-ready boilerplate combining Next.js, Tailwind CSS, MongoDB (via Mongoose), Auth0 authentication, and Stripe payments. Built to accelerate time-to-market by applying modern best practices and maximizing extensibility.
 
